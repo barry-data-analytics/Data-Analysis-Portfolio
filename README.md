@@ -1,2 +1,2 @@
-# SQL Project - Data cleaning
-Side project related to SQL data cleaning for the dataset of a grocery store
+# Data Analysis Portfolio
+Home for different data analysis projects demonstrating the use of SQL, Python codes and Tableau/Power BI.
