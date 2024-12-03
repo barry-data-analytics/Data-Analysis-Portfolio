@@ -8,7 +8,7 @@ SQL:
 
 Python:
 1) A/B testing of webpage design on conversion rate
-2) NBA games results predictions
+2) Machine learning on NBA games results predictions
 
 Tableau/Power BI:
 1) TBD
