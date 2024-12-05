@@ -4,7 +4,7 @@ Home for different data analysis projects demonstrating the use of SQL, Python c
 
 SQL:
 1) Data cleaning for grocery store dataset
-2) 
+2) TBD
 
 Python:
 1) A/B testing of webpage design on conversion rate
